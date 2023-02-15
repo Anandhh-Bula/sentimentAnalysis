@@ -1,4 +1,4 @@
-# sentimentAnalysis_TF
-Text Classification and Sentiment Analysis using TensorFlow
+# sentimentAnalysis
+Text Classification and Sentiment Analysis using Scikit-Learn
 
 // Test Commit
